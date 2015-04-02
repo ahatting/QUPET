@@ -23,6 +23,6 @@ CSV Example:
 DisplayName;UserPrincipalName;Property;Property;etc<br>
 Doe,John;john.doe@domain.com;1;2;etc<br>
 Doe,Jane;jane.doe@domain.com;4;5;etc<br>
+***
 
-
-[logo]: https://raw.githubusercontent.com/ahatting/KUPET/master/Sample1.png "KUPET"
+![Sample](https://github.com/ahatting/KUPET/blob/master/Sample1.png "KUPET")
