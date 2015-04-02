@@ -1,4 +1,4 @@
-﻿# KEMBIT User Properties Export Tool (KUPET)
+﻿## KEMBIT User Properties Export Tool (KUPET)
 
 _The KEMBIT User Properties Export Tool (KUPET) allows you to easily export user or mailbox properties from Active Directory or Office 365._
 
