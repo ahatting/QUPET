@@ -24,7 +24,7 @@ DisplayName;UserPrincipalName;Property;Property;etc<br>
 Doe,John;john.doe@domain.com;1;2;etc<br>
 Doe,Jane;jane.doe@domain.com;4;5;etc<br>
 
-**If you only want the tool and don't care about what the scripts does, you will only need:**
+**If you only want the tool and don't care about what the script does, you will only need:**
 - KUPET.exe
 - KUPET.exe.config
 
