@@ -20,8 +20,6 @@ The CSV file should use the semicolon (;) as delimiter and contain at least the 
 
 CSV Example:
 
-DisplayName;UserPrincipalName;Property;Property;etc
-
-Doe,John;john.doe@domain.com;1;2;etc
-
-Doe,Jane;jane.doe@domain.com;4;5;etc
+DisplayName;UserPrincipalName;Property;Property;etc<br>
+Doe,John;john.doe@domain.com;1;2;etc<br>
+Doe,Jane;jane.doe@domain.com;4;5;etc<br>
