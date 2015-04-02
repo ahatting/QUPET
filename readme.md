@@ -25,4 +25,4 @@ Doe,John;john.doe@domain.com;1;2;etc<br>
 Doe,Jane;jane.doe@domain.com;4;5;etc<br>
 
 
-[logo]: https://github.com/ahatting/KUPET/raw/master/src/common/images/sample.png "KUPET"
+[logo]: https://raw.githubusercontent.com/ahatting/KUPET/master/Sample1.png "KUPET"
