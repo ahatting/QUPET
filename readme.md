@@ -3,14 +3,14 @@
 _The KEMBIT User Properties Export Tool (KUPET) allows you to easily export user properties from Active Directory or mailbox data in Office 365 to a CSV. You can also directly pipe the discovered AD users towards Office 365 with just 1 click!_
 
 For the best experience you will need:
-- Windows PowerShell version 2 or higher
+- Windows PowerShell version 3 or higher
 - Active Directory PowerShell Module
 - Windows Azure Active Directory Module for PowerShell
 - Sufficient access in Office 365 (Exchange Online)
 - Domain joined workstation
 
 The minimal requirements are:
-- Windows PowerShell version 2 or higher
+- Windows PowerShell version 3 or higher
 - Domain joined workstation
 
 Use the applicable search fields to find users. You can use *.* in the UPN field to find all. Partial strings are allowed.
