@@ -31,4 +31,4 @@ On first run, edit your settings (File -> Settings)
 
 ***
 
-![Sample](https://github.com/ahatting/QUPET/blob/master/Sample1.png "QUPET")
+![Sample](https://github.com/ahatting/QUPET/blob/master/Sample.png "QUPET")
