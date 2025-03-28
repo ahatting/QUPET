@@ -1,6 +1,6 @@
-﻿## KEMBIT User Properties Export Tool (KUPET)
+﻿## Quick User Properties Export Tool (QUPET)
 
-_The KEMBIT User Properties Export Tool (KUPET) allows you to easily export user properties from Active Directory or mailbox data in Office 365 to a CSV. You can also directly pipe the discovered AD users towards Office 365 with just 1 click!_
+_The Quick User Properties Export Tool (QUPET) allows you to easily export user properties from Active Directory or mailbox data in Office 365 to a CSV. You can also directly pipe the discovered AD users towards Office 365 with just 1 click!_
 
 For the best experience you will need:
 - Windows PowerShell version 3 or higher
@@ -25,10 +25,10 @@ Doe,John;john.doe@domain.com;1;2;etc<br>
 Doe,Jane;jane.doe@domain.com;4;5;etc<br>
 
 **If you only want the tool and don't care about what the script does, you will only need:**
-- KUPET.exe
+- QUPET.exe
 
 On first run, edit your settings (File -> Settings)
 
 ***
 
-![Sample](https://github.com/ahatting/KUPET/blob/master/Sample1.png "KUPET")
+![Sample](https://github.com/ahatting/QUPET/blob/master/Sample1.png "QUPET")
